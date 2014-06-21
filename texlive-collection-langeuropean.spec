@@ -1,12 +1,12 @@
-# revision 30457
+# revision 33888
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langeuropean
-Version:	20131013
-Release:	6
+Version:	20140621
+Release:	1
 Summary:	Other European languages
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -16,6 +16,7 @@ BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires:	texlive-collection-basic
+Requires:	texlive-armtex
 Requires:	texlive-babel-albanian
 Requires:	texlive-babel-breton
 Requires:	texlive-babel-croatian
