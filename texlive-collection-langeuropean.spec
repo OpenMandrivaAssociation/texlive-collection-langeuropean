@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langeuropean
 Version:	20140621
-Release:	1
+Release:	2
 Summary:	Other European languages
 Group:		Publishing
 URL:		http://tug.org/texlive
