@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-collection-langeuropean
-Version:	20170519
+Version:	20180304
 Release:	1
 Summary:	Other European languages
 Group:		Publishing
