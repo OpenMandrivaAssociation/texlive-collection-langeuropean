@@ -1,6 +1,6 @@
 Name:		texlive-collection-langeuropean
-Version:	64723
-Release:	2
+Version:	66432
+Release:	1
 Summary:	Other European languages
 Group:		Publishing
 URL:		http://tug.org/texlive
